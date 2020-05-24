@@ -1,0 +1,5 @@
+from,to,weight,duration,relationship
+ego,Dirk,2,1,10
+ego,Sebastian,2,1,6
+ego,Cosima,1,2,10
+ego,Valentin,2,1,6
